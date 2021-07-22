@@ -2,4 +2,4 @@
 
 ## labs.fossasia.org
 
-Code of website: http://labs.fossasia.org
+Code of website: http://code.fossasia.org
