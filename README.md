@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/fossasia/labs.fossasia.org.svg?branch=gh-pages)](https://travis-ci.org/fossasia/labs.fossasia.org)
-
-## labs.fossasia.org
+## code.fossasia.org
 
 Code of website: http://code.fossasia.org
